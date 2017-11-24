@@ -6,6 +6,24 @@
 
 
 /*Custom*/
+.startPost{
+  width:60%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.fullPost{
+  width: 100%;
+  height: 20%;
+  margin: 0 auto;
+}
+.more-icon{
+  width: 100px;
+  height: 100px;
+}
+.text-bottom{
+  vertical-align: bottom;
+}
 .normal-link{
   color: black;}
   .normal-link: active, .normal-link: hover{
