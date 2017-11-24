@@ -6,6 +6,96 @@
 
 
 /*Custom*/
+.normal-link{
+  color: black;}
+  .normal-link: active, .normal-link: hover{
+    color: #18BC9C;
+    text-decoration: none !important; }
+
+
+.myPost{
+  width:90%;
+  height: 40%;
+  margin: 0 auto;
+}
+.to-link{
+  font-size: 30px;
+}
+.corp-content{
+  font-size: 23px;
+}
+.corp-title{
+  color: #18BC9C;
+  margin-top: 20px;
+}
+.text-right{
+  text-align: right;
+  margin-right: 20%;
+}
+.big-num{
+  font-size: 50px;
+}
+.center{
+  margin: 0 auto;
+}
+#poster{
+  width:90%;
+  height: 40%;
+  margin: 0 auto;
+}
+.text-block{
+  padding-left: 50px;
+  padding-right: 25px;
+}
+.roof-head{
+  font-size: 35px;
+}
+.roof-content{
+  font-size: 23px;
+}
+.roof-block{
+  margin-bottom: 30px;
+}
+p{
+  margin-bottom: 0px;
+}
+.roof-btn{
+  margin-top: 0px !important;
+}
+.roof-icon{
+  width: 200px;
+  height: 200px;
+}
+.portfolio_start{
+  padding-top: 120px !important;
+}
+.masthead_cust{
+   padding-top: 100px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: white;
+  background: white;
+  position: fixed;
+  width: 100%; 
+  z-index: 10;}
+  header.masthead_cust .intro-text .name {
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    display: block;
+    text-transform: uppercase; }
+  header.masthead_cust .intro-text .skills {
+    font-size: 1.25em;
+    font-weight: 300; }
+
+#try.navbar-shrink {
+  padding-top: 10px;
+  padding-bottom: 10px; }
+
+#cover{
+  width: 400px;
+  height: 400px;
+}
 #contactlink{
   color: white;
   font-weight: 700;
