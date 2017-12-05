@@ -6,6 +6,10 @@
 
 
 /*Custom*/
+.form-group, .form-check{
+  padding-left: 10%;
+  padding-right: 10%;
+}
 .startPost{
   width:60%;
   margin-left: auto;
@@ -117,7 +121,7 @@ p{
 #contactlink{
   color: white;
   font-weight: 700;
-  font-size: 60px;
+  font-size: 40px;
   border-color: #18BC9C;
   background-color: #18BC9C;
 }

@@ -1,3 +1,12 @@
+
+document.getElementById("form-btn").onclick = function () {
+    var name = document.getElementById("exampleInputName1").value;
+    var email = document.getElementById("exampleInputEmail1").value;
+    var mailto_link = "mailto:kay61515@gmail.com?subject=solar.ants&body=My name: "+name+ "%0d%0aMy Email Address: " + email +"%0d%0a 我願意接收最新的相關資訊";
+    alert(mailto_link);
+    var win = window.open(mailto_link);
+};
+
 (function($) {
   "use strict"; // Start of use strict
 
@@ -50,4 +59,6 @@
     });
   });
 
+
 })(jQuery); // End of use strict
+
